@@ -1,0 +1,43 @@
+html {
+    height: 100%;
+    background-color: white;
+}
+body {
+    height: 43%;
+    background-color: rgba(255, 221, 227, 0.80);
+}
+/* NAVIGATION*/
+h1 {
+    text-align: center;
+}
+ul {
+    float: right;
+    margin-right: 20px;
+    margin-top: 15px;
+    background-color: rgba(255, 221, 227, 0.50);
+    color: black
+}
+a {
+    display: inline;
+    text-decoration: none;
+    color: black;
+    margin-top: 15px;
+    font-size: 18px;
+}
+
+.row1 {
+    display: inline-block;
+    margin-left: 100px;
+    margin-top: 25px;
+}
+.row2 {
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 25px;
+}
+.row4 {
+        display: inline-block;
+        margin-left: 200px;
+        margin-top: 25px;
+
+}
