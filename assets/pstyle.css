@@ -9,6 +9,7 @@ body {
 /* NAVIGATION*/
 h1 {
     text-align: center;
+    margin-top: 50px;
 }
 ul {
     float: right;
@@ -21,8 +22,15 @@ a {
     display: inline;
     text-decoration: none;
     color: black;
-    margin-top: 15px;
+    margin-top: 35px;
     font-size: 18px;
+    margin-left: 15px;
+}
+.icon {
+    display: inline-flex;
+    float: inline-end;
+    margin-left: 20px;
+    margin-top: 15px;
 }
 
 .row1 {
