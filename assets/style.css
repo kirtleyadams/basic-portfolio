@@ -13,7 +13,8 @@ ul {
     margin-right: 20px;
     margin-top: 15px;
     background-color: rgba(255, 221, 227, 0.50);
-    color: black
+    color: black;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 a{
     display: inline;
@@ -51,18 +52,21 @@ img {
 } */
 p {
     /* display: flex; */
-    font-size: 20px;
+    font-size: 25px;
     margin-left: 10px;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 h3{
     margin-left: 10px;
-    font-size: 20px;
+    font-size: 25px;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 
 h1 {
     font-size: 120px;
     margin-left: -45px;
     line-height: 0.9;
+    font-family: 'Elsie', cursive;
 }
 
 /* FOOTER */
@@ -70,6 +74,7 @@ footer {
     justify-content: center;
     text-align: center;
     margin-top: 10px;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 
 .row1{
