@@ -7,45 +7,32 @@ body {
     background-color: rgba(255, 221, 227, 0.80);
 }
 /* NAVIGATION*/
-h1 {
-    text-align: center;
-    margin-top: 50px;
-}
+
 ul {
     float: right;
     margin-right: 20px;
     margin-top: 15px;
     background-color: rgba(255, 221, 227, 0.50);
-    color: black
+    color: black;
+    font-family: 'Source Sans Pro', sans-serif;
 }
-a {
+a{
     display: inline;
     text-decoration: none;
     color: black;
-    margin-top: 35px;
+    margin-top: 15px;
     font-size: 18px;
-    margin-left: 15px;
 }
+
 .icon {
     display: inline-flex;
     float: inline-end;
     margin-left: 20px;
     margin-top: 15px;
 }
-
-.row1 {
-    display: inline-block;
-    margin-left: 100px;
-    margin-top: 25px;
-}
-.row2 {
-    display: inline-block;
-    margin-left: 50px;
-    margin-top: 25px;
-}
-.row4 {
-        display: inline-block;
-        margin-left: 200px;
-        margin-top: 25px;
-
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Elsie', cursive;
+    
 }
