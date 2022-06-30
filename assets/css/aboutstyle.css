@@ -35,3 +35,10 @@ h1 {
     margin-top: 50px;
     font-family: 'Elsie', cursive;
 }
+
+.left {
+    max-width: 60%;
+}
+.right {
+    max-width: 60%;
+}
